@@ -1,0 +1,2 @@
+# Static Project Template
+
